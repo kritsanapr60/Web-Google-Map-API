@@ -1,0 +1,7 @@
+﻿สิ่งที่เหลือ
+    1.Admin
+    2. แก้ icon บางหน้าไม่ขึ้น3
+    3. front-end ให้เรียบร้อย 
+    4. footer
+    5. path login เวลาดูรายละเอียด ไม่ถูก
+http://202.28.49.95/~plant/plantmaker/public/
